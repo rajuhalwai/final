@@ -1,0 +1,6 @@
+c:\users\pintu\onedrive\documents\visual studio 2013\Projects\crud\crud\bin\crud.dll.config
+c:\users\pintu\onedrive\documents\visual studio 2013\Projects\crud\crud\bin\crud.dll
+c:\users\pintu\onedrive\documents\visual studio 2013\Projects\crud\crud\bin\crud.pdb
+c:\users\pintu\onedrive\documents\visual studio 2013\Projects\crud\crud\obj\Debug\crud.csprojResolveAssemblyReference.cache
+c:\users\pintu\onedrive\documents\visual studio 2013\Projects\crud\crud\obj\Debug\crud.dll
+c:\users\pintu\onedrive\documents\visual studio 2013\Projects\crud\crud\obj\Debug\crud.pdb
